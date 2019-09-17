@@ -1,8 +1,10 @@
-# react-boilerplate
+# react-redux-boilerplate adapted from Le Wagon react boilerplate
 
-Simple react starter with the following config:
+React with Redux starter with the following config:
 
 - React, ReactDOM
+- Redux, react-redux
+- redux promise and redux logger as custom middleware
 - Webpack 4
 - Babel with es2015 and react presets
 - Bootstrap (css only, loaded from a cdn in `index.html`)
